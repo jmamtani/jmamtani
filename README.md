@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jatin</h1>
+![MasterHead](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png.webp)
+<h1 align="center">Hi 👋, I'm Jatin Mamtani</h1>
 <h3 align="center">Final year Computer Science and Engineering Major at The Ohio State University</h3>
 <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="coding" align = "right" width = "400">
 
