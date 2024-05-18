@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Personal Portfolio**
 
-- 🌱 I’m currently learning **Ruby on Rails**
+- 🌱 I’m currently learning **AI & ML**
 
-- 💬 Ask me about **Java, DSA**
+- 💬 Ask me about **Java, DSA, Fronted**
 
 - 📫 How to reach me **mamtani.6@osu.edu**
 
