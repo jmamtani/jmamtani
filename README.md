@@ -3,11 +3,11 @@
 <h3 align="center">Final year Computer Science and Engineering Major at The Ohio State University</h3>
 <img src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif" alt="coding" align = "right" width = "400">
 
-- 🔭 I’m currently working on **Personal Portfolio**
+- 🔭 I’m currently working as a **Technical Product Manager**
 
-- 🌱 I’m currently learning **AI & ML**
+- 🌱 I’m currently managing **Marketplace & Payments**
 
-- 💬 Ask me about **Java, DSA, Fronted**
+- 💬 Ask me about **Project Management, Java, DSA, Fronted**
 
 - 📫 How to reach me **mamtani.6@osu.edu**
 
