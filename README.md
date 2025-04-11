@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as a **Product Manager/ Software Engineer**
 
-- 🌱 I’m currently managing **Game Development Startup taking ideas->0--1**
+- 🌱 I’m currently managing **Game Development Startup taking ideas 0-->1**
 
 - 💬 Ask me about **Project Management, Java, DSA, Fronted**
 
