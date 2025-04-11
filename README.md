@@ -1,6 +1,6 @@
 ![MasterHead](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png.webp)
 <h1 align="center">Hi 👋, I'm Jatin!</h1>
-<h3 align="center">Passionate about product management and software development, with a knack for turning ideas into reality</h3>
+<h3 align="center">Product management and software engineer, with a knack for turning ideas into reality!</h3>
 <img src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif" alt="coding" align = "right" width = "400">
 
 - 🔭 I’m currently working as a **Product Manager/ Software Engineer**
