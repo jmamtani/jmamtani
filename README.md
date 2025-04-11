@@ -1,15 +1,15 @@
 ![MasterHead](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png.webp)
 <h1 align="center">Hi 👋, I'm Jatin!</h1>
-<h3 align="center">Final year Computer Science and Engineering Major at The Ohio State University</h3>
+<h3 align="center">Passionate about product management and software engineering, with a knack for turning ideas into reality!</h3>
 <img src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif" alt="coding" align = "right" width = "400">
 
-- 🔭 I’m currently working as a **Technical Project Manager**
+- 🔭 I’m currently working as a **Product Manager/ Software Engineer **
 
-- 🌱 I’m currently managing **Marketplace & Payments**
+- 🌱 I’m currently managing **Game Development Startup taking ideas->0--1**
 
 - 💬 Ask me about **Project Management, Java, DSA, Fronted**
 
-- 📫 How to reach me **mamtani.6@osu.edu**
+- 📫 How to reach me **mamtani.jatin@gmail.com**
 
 - ⚡ Fun fact **I am a DJ/Music Producer!**
 
