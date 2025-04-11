@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently managing **Game Development Startup taking ideas 0-->1**
 
-- 💬 Ask me about **Project Management, Java, DSA, Fronted**
+- 💬 Ask me about **Project Management, Java, DSA, Agile, Scrum**
 
 - 📫 How to reach me **mamtani.jatin@gmail.com**
 
